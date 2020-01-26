@@ -2,13 +2,13 @@
 
 MNIST digit classification __without__ neural net usage.
 
-__linear_regression.py__ linear regression implementation
-__svm.py__ support vector machine implementation
-__softmax.py__ multinomial regression implementation
-__features.py__ principal component analysis (PCA) dimensionality reduction
-__kernel.py__ polynomial and Gaussian RBF kernels implementation
-__main.py__ digit classification by means of the methods mentioned above
-__utils.py__ helper functions
+__linear_regression.py__ linear regression implementation  
+__svm.py__ support vector machine implementation  
+__softmax.py__ multinomial regression implementation  
+__features.py__ principal component analysis (PCA) dimensionality reduction  
+__kernel.py__ polynomial and Gaussian RBF kernels implementation  
+__main.py__ digit classification by means of the methods mentioned above  
+__utils.py__ helper functions  
 
 The get_MNIST_data function from __utils.py__ returns the data in the following format:
 
